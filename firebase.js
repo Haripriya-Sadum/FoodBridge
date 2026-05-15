@@ -7,7 +7,7 @@ const firebaseConfig = {
   projectId: "foodbridge-20f43",
   storageBucket: "foodbridge-20f43.firebasestorage.app",
   messagingSenderId: "484860939564",
-  appId: "1:484860939564:web:62dd70e5995ff67ed2b089"
+  appId: ""
 };
 
 // Initialize Firebase
